@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=22&pause=1500&color=B388EB&center=true&width=600&lines=%E4%B8%8D%E7%9F%A5%E6%98%AF%E6%A2%A6%E7%9A%84%E7%BC%98%E6%95%85%EF%BC%8C%E6%B5%81%E7%A6%BB%E4%B9%8B%E4%BA%BA%E8%BF%BD%E9%80%90%E5%B9%BB%E5%BD%B1%E3%80%82;%E5%A4%A2%E3%81%AE%E3%81%9B%E3%81%84%E3%81%8B%E3%80%81%E5%BD%B7%E5%BE%A8%E3%81%86%E8%80%85%E3%81%AF%E5%B9%BB%E3%82%92%E8%BF%BD%E3%81%86%E3%80%82" />
 </p>
 
-<br><br>
+<br>
 
 <!-- 🌊 波浪分隔 · 梦幻色 -->
 <p align="center">
