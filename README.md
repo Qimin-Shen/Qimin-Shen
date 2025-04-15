@@ -2,19 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+Nice+to+see+you.;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50" />
 </div>
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; gap: 20px;">
 
-<!-- Most Used Languages 图 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical" />
+<!-- 左边：Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" />
 
-    </td>
-    <td>
+<!-- 右边：Kirino GIF -->
+<img src="./assets/kirino.gif" width="180" />
 
-<!-- Kirino 动图 -->
-<img src="./assets/kirino.gif" width="180"/>
-
-    </td>
-  </tr>
-</table>
+</div>
