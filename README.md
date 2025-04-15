@@ -7,7 +7,7 @@
 
 <!-- 🌊 波浪分隔 · 梦幻色 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5DFFF,100:C3B4F5&height=100&section=header&text=幽辉月阙&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDDBF3,100:A9A7D5&height=100&section=header&text=幽辉月阙&fontSize=32&fontColor=ffffff" />
 </p>
 
 <br><br>
