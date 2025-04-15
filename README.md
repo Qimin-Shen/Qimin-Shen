@@ -1,6 +1,5 @@
-<!-- 🌑 打字机欢迎语 · 梦与追逐的诗意 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=22&pause=1200&color=B388EB&center=true&width=600&lines=不知是梦的缘故，流离之人追逐幻影；夢のせいか、彷徨う者は幻を追う。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=22&pause=1500&color=B388EB&center=true&width=600&lines=不知是梦的缘故，流离之人追逐幻影。;夢のせいか、彷徨う者は幻を追う。" />
 </p>
 
 <br><br>
