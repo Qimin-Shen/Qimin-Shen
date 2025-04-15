@@ -15,12 +15,10 @@
 <!-- 🌌 技术图 + 动图 并排展示 -->
 <table align="center">
   <tr>
-
     <!-- 左图：语言图 -->
     <td align="center" valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical" width="400"/>
     </td>
-
     <!-- 右图：Kirino 动图 -->
     <td align="center" valign="top" width="50%">
       <img src="./assets/kirino.gif" width="400"/>
