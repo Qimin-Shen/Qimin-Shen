@@ -1,5 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+Nice+to+see+you.;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
 
 <!--
 **Qimin-Shen/Qimin-Shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
