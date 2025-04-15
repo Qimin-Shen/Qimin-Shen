@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
 
 <!-- 左边：Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical" />
 
 <!-- 右边：Kirino GIF -->
 <img src="./assets/kirino.gif" width="180" />
