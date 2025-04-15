@@ -36,7 +36,6 @@
 <blockquote align="center">
   <strong>「幽辉降临，寂夜恒存。」</strong><br>
   Rules are rewritten. Sound disappears. Motion ceases.<br>
-  <em>— Excerpt from 心象【幽辉月阙】</em>
 </blockquote>
 
 ---
