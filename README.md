@@ -18,7 +18,7 @@
     <tr>
       <!-- 👾 技术图 -->
       <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=tokyonight" width="400"/>
       </td>
 
       <!-- 🌙 动图 -->
