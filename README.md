@@ -12,7 +12,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
   <!-- 技术语言图 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical" width="400"/>
 
   <!-- Kirino 动图 -->
   <img src="./assets/kirino.gif" width="300"/>
