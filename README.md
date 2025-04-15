@@ -1,5 +1,5 @@
-<!-- 🌑 静态诗意打字欢迎语（中日双语） -->
 <p align="center">
+  <strong><code>▍术式启动：</code></strong><br>
   <strong><code>不知是梦的缘故，流离之人追逐幻影。</code></strong><br>
   <strong><code>夢のせいか、彷徨う者は幻を追う。</code></strong>
 </p>
