@@ -29,7 +29,7 @@
 <!-- 📖 心象 · 展示语录 -->
 <blockquote align="center">
   <strong>「幽辉降临，寂夜恒存。」</strong><br>
-  Rules are rewritten. Sound disappears. Motion ceases.<br>
+  幽き輝きが降り注ぎ、寂しき夜は永遠に続く。<br>
 </blockquote>
 
 ---
@@ -37,7 +37,7 @@
 <!-- 🌙 结语 -->
 <blockquote align="center">
   <strong>「以身化月，己代天心。」</strong><br>
-  Rules are rewritten. Sound disappears. Motion ceases.<br>
+  身を月と化し、己れ天の心を継ぐ。<br>
 </blockquote>
 
 ---
