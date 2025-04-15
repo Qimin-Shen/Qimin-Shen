@@ -1,16 +1,12 @@
-<!-- 🌙 胧月打字机欢迎语 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B388EB&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Under+the+Hazy+Moonlight...;I+code+in+silence+but+not+without+purpose." />
-</p>
+<!-- 🌙 胧月打字机欢迎语（改进版） -->
+<div align="center" style="min-height: 100px; padding-bottom: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B388EB&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Under+the+Hazy+Moonlight...;I+code+in+silence+but+not+without+purpose." />
+</div>
 
-<br><br>
-
-<!-- 🌊 波浪分隔 · 朦胧月光色 -->
+<!-- 🌊 胧月波浪横幅 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b388eb,100:7c5cc4&height=100&section=header&text=月下编程者&fontSize=32&fontColor=ffffff" />
 </p>
-
-<br><br>
 
 <!-- 💻 技术图 & Kirino 动图布局 -->
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
