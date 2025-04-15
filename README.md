@@ -1,6 +1,6 @@
 <!-- 🌑 幽辉月阙 · 打字机欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=B388EB&vCenter=true&width=600&height=60&lines=Under+the+Hazy+Moonlight...;I+code+in+silence,+but+not+without+purpose.;踏月而行，幽辉独临。" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B388EB&center=true&width=435&lines=Under+the+Hazy+Moonlight...;I+code+in+silence+but+not+without+purpose." />
 </p>
 
 <br><br>
