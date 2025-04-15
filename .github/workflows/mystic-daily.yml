@@ -1,0 +1,38 @@
+name: 🌙 Mystic Daily Commit
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 每天 UTC 时间中午 12 点触发（北京时间晚上 8 点）
+  workflow_dispatch:        # 也可以手动运行一次
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+
+      - name: Generate mystic quote and append to README
+        run: |
+          QUOTE=$(shuf -n 1 <<EOF
+🌒 月出皎兮，宛在水中。
+🌓 星汉灿烂，若出其里。
+🌕 凝霜满地，夜色如洗。
+🌘 风入松林，清梦遥遥。
+🌑 云无心以出岫，月有意而留光。
+🌙 烟波江上，孤影自横。
+🌗 夜深千帐灯，梦回吹角连营。
+🌖 万籁此俱寂，惟余钟磬音。
+🌔 天阶夜色凉如水，卧看牵牛织女星。
+🌑 月黑雁飞高，单于夜遁逃。
+EOF
+)
+          echo "$QUOTE  - $(date '+%Y-%m-%d')" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Qimin-Shen"
+          git config --global user.email "qimshen@bu.edu"
+          git add README.md
+          git commit -m "🌌 Mystic update on $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push origin main
