@@ -12,21 +12,25 @@
 
 <br><br>
 
-<!-- 🌌 技术图 + Kirino 动图，居中对齐 -->
+<!-- 🌌 技术图 + 动图 并排展示 -->
 <div align="center">
-  <table>
-    <tr>
-      <!-- 👾 技术图 -->
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=tokyonight" width="400"/>
-      </td>
 
-      <!-- 🌙 动图 -->
-      <td align="center" valign="top" width="50%">
-        <img src="./assets/kirino.gif" width="280"/>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+
+    <!-- 📊 GitHub语言图 -->
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" width="400"/>
+    </td>
+
+    <!-- 🌙 动图展示 -->
+    <td align="center" valign="top" width="50%">
+      <img src="./assets/kirino.gif" width="280"/>
+    </td>
+
+  </tr>
+</table>
+
 </div>
 
 <br><br>
