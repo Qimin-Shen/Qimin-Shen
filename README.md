@@ -1,17 +1,13 @@
-<!-- 👾 中二打字动画区 -->
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF0077&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+dark+domain...;I+code+because+I+must."
-    style="display: block; margin-bottom: 60px;"
-  />
-</div>
+<!-- 🩸 中二打字动画 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF0077&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+dark+domain...;I+code+because+I+must." />
+</p>
 
-<!-- 🔥 波浪横幅分割 -->
-<p align="center" style="margin-top: 20px;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2c70,100:3f0eff&height=100&section=header&text=Coding%20is%20Fate!&fontSize=30&fontColor=ffffff"
-    alt="divider"
-  />
+<br><br>
+
+<!-- ⚔️ 中二波浪横幅 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2c70,100:3f0eff&height=100&section=header&text=Coding%20is%20Fate!&fontSize=30&fontColor=ffffff" />
 </p>
 
 <!-- 图像左右分布 -->
