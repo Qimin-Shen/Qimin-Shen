@@ -1,10 +1,9 @@
-<!-- 🌑 打字欢迎语 · 诗意呈现（静态替代） -->
+<!-- 🌑 静态诗意打字欢迎语（中日双语） -->
 <p align="center">
-  <strong>
-    不知是梦的缘故，流离之人追逐幻影。<br>
-    <span style="letter-spacing:2px; color:#B388EB">夢のせいか、彷徨う者は幻を追う。</span>
-  </strong>
+  <strong><code>不知是梦的缘故，流离之人追逐幻影。</code></strong><br>
+  <strong><code>夢のせいか、彷徨う者は幻を追う。</code></strong>
 </p>
+
 <br><br>
 
 <!-- 🌊 波浪分隔 · 梦幻色 -->
