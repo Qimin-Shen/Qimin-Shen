@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- 🌊 波浪分隔 · 梦幻色 -->
+<!-- 🌕 月辉结界分割线 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDDBF3,100:A9A7D5&height=100&section=header&text=幽辉月阙&fontSize=32&fontColor=ffffff" />
+  <img src="./assets/moon-divider.png" width="800"/>
 </p>
 
 <br><br>
