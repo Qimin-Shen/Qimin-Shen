@@ -24,12 +24,6 @@
 
 <br><br>
 
-<!-- 🩸 中二徽章语录 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/幽辉降临-规则剥夺-purple?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/以身化月-己代天心-7c5cc4?style=for-the-badge&logo=visualstudiocode" />
-</p>
-
 ---
 
 <!-- 📖 心象 · 展示语录 -->
@@ -41,7 +35,8 @@
 ---
 
 <!-- 🌙 结语 -->
-<p align="center">
-  <i>She walks under the moon not to be seen, but to remain untouchable.<br>
-  凡尘之极限，亦为人间最短暂之光。</i>
-</p>
+<blockquote align="center">
+  <strong>「以身化月，己代天心。」</strong><br>
+  Rules are rewritten. Sound disappears. Motion ceases.<br>
+</blockquote>
+---
