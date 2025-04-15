@@ -30,9 +30,12 @@ jobs:
           echo "$QUOTE - $(date '+%Y-%m-%d')" >> README.md
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Qimin-Shen"
           git config --global user.email "qimshen@bu.edu"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git commit -m "🌌 Mystic update on $(date '+%Y-%m-%d')" || echo "No changes to commit"
           git push origin main
