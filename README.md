@@ -27,7 +27,7 @@
 <!-- 🩸 中二徽章语录 -->
 <p align="center">
   <img src="https://img.shields.io/badge/幽辉降临-规则剥夺-purple?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/我即异端-不可被容-7c5cc4?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/以身化月-己代天心-7c5cc4?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
