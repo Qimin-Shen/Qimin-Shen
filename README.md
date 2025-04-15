@@ -45,3 +45,32 @@
 </blockquote>
 
 ---
+<!-- 🌕 背景图叠加标题和两侧文字 -->
+<div style="
+  background-image: url('./assets/moon-divider.png');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 100px 20px;
+  color: #e8e0ff;
+  font-family: 'Noto Serif JP', serif;
+">
+
+  <!-- 标题 -->
+  <h2 style="font-size: 32px; margin-bottom: 40px;">
+    夢のせいか、彷徨う者は幻を追う。
+  </h2>
+
+  <!-- 两侧语录 -->
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="max-width: 300px; font-size: 16px;">
+      <strong>「幽輝降臨，寂夜恒存。」</strong><br>
+      幽き輝きが降り注ぎ、寂しき夜は永遠に続く。
+    </div>
+    <div style="max-width: 300px; font-size: 16px;">
+      <strong>「以身化月，己代天心。」</strong><br>
+      身を月と化し、己れ天の心を継ぐ。
+    </div>
+  </div>
+
+</div>
