@@ -1,28 +1,39 @@
-<!-- 🩸 中二打字动画 -->
+<!-- 🌙 胧月打字机欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF0077&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+dark+domain...;I+code+because+I+must." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B388EB&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Under+the+Hazy+Moonlight...;I+code+in+silence+but+not+without+purpose." />
 </p>
 
 <br><br>
 
-<!-- ⚔️ 中二波浪横幅 -->
+<!-- 🌊 波浪分隔 · 朦胧月光色 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2c70,100:3f0eff&height=100&section=header&text=Coding%20is%20Fate!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b388eb,100:7c5cc4&height=100&section=header&text=月下编程者&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- 图像左右分布 -->
+<br><br>
+
+<!-- 💻 技术图 & Kirino 动图布局 -->
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
-  <!-- 技术语言图 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical" width="400"/>
+  <!-- 技术图 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" width="400"/>
 
-  <!-- Kirino 动图 -->
+  <!-- 动图（可替换） -->
   <img src="./assets/kirino.gif" width="300"/>
 
 </div>
 
-<!-- 中二徽章 -->
+<br><br>
+
+<!-- 🛡️ 中二徽章区 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E6%88%91%E4%B8%8D%E4%BC%9Abug-%E6%88%91%E6%98%AF%E7%A8%8B%E5%BA%8F%E5%BC%82%E5%BD%A2%E7%89%A9-purple?style=for-the-badge&logo=ghost"/>
-  <img src="https://img.shields.io/badge/Code--Or--Die-%F0%9F%94%A5-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/孤月下的编程者-沉默前行-purple?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/代码即信仰-不灭之火-ff77ff?style=for-the-badge&logo=visualstudiocode" />
 </p>
+
+---
+
+<!-- 🥀 胧月宣言 -->
+<p align="center"><i>
+  胧月未明，吾心未息。以指尖为刃，以代码为契，破晓前，唯独孤行。
+</i></p>
