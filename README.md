@@ -12,24 +12,13 @@
 
 <br><br>
 
-<!-- 🌌 技术图 + 动图 并排展示 -->
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
-<table>
-  <tr>
+  <!-- 左边：Most Used Languages 图 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" width="400"/>
 
-    <!-- 📊 GitHub语言图 -->
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" width="400"/>
-    </td>
-
-    <!-- 🌙 动图展示 -->
-    <td align="center" valign="top" width="50%">
-      <img src="./assets/kirino.gif" width="280"/>
-    </td>
-
-  </tr>
-</table>
+  <!-- 右边：Kirino 动图 -->
+  <img src="./assets/kirino.gif" width="400"/>
 
 </div>
 
