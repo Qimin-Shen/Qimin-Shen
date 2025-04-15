@@ -2,8 +2,8 @@ name: 🌙 Mystic Daily Commit
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 每天 UTC 12点，北京时间 20:00 自动触发
-  workflow_dispatch:        # 手动触发也可以
+    - cron: '0 12 * * *'   # 每天 UTC 12:00，北京时间 20:00 运行
+  workflow_dispatch:        # 可手动运行测试
 
 jobs:
   commit:
@@ -14,7 +14,7 @@ jobs:
 
       - name: Generate mystic quote and fortune and append to README
         run: |
-          # 绯句列表（日语）
+          # 日语绯句列表（神秘感）
           quotes=(
             "🌒 月影揺れ、言葉は風に消ゆ。"
             "🌓 静夜に、星の声が胸を打つ。"
@@ -28,7 +28,7 @@ jobs:
             "🌑 見えぬものこそ、心を照らす。"
           )
 
-          # 运势列表
+          # 今日运势签
           fortunes=(
             "🌟 今日の運勢：大吉 — 万事順調、心静如水。"
             "🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。"
@@ -40,11 +40,13 @@ jobs:
           # 随机选择
           QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
           FORTUNE=${fortunes[$RANDOM % ${#fortunes[@]}]}
+          DATE=$(date '+%Y-%m-%d')
 
-          # 输出到 README
+          # 写入 README
+          echo "" >> README.md
           echo "$QUOTE" >> README.md
           echo "$FORTUNE" >> README.md
-          echo "🗓️ $(date '+%Y-%m-%d')" >> README.md
+          echo "🗓️ $DATE" >> README.md
           echo "" >> README.md
 
       - name: Commit and push changes
