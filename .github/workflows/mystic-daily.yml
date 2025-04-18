@@ -39,11 +39,9 @@ jobs:
           FORTUNE=${fortunes[$RANDOM % ${#fortunes[@]}]}
           DATE=$(date '+%Y-%m-%d')
 
-          echo "" >> README.md
           echo "$QUOTE" >> README.md
           echo "$FORTUNE" >> README.md
           echo "🗓️ $DATE" >> README.md
-          echo "" >> README.md
 
       - name: Commit and push changes
         env:
