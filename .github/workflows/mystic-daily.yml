@@ -39,7 +39,7 @@ jobs:
           FORTUNE=${fortunes[$RANDOM % ${#fortunes[@]}]}
           DATE=$(date '+%Y-%m-%d')
 
-          echo "$QUOTE" >> README.md
+          echo "$QUOTE" > README.md
           echo "$FORTUNE" >> README.md
           echo "🗓️ $DATE" >> README.md
 
