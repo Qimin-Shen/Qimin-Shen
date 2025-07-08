@@ -40,15 +40,15 @@ jobs:
           DATE=$(date '+%Y-%m-%d')
 
           NEW_CONTENT=$(cat << EOM
-<!-- daily-fortune-start -->
-<div id="daily-fortune">
-  $QUOTE<br>
-  $FORTUNE<br>
-  🗓️ $DATE
-</div>
-<!-- daily-fortune-end -->
-EOM
-)
+           <!-- daily-fortune-start -->
+           <div id="daily-fortune">
+             $QUOTE<br>
+             $FORTUNE<br>
+             🗓️$DATE
+           </div>
+           <!-- daily-fortune-end -->
+          EOM
+          )
 
           echo "$NEW_CONTENT" > tmp_daily.txt
 
