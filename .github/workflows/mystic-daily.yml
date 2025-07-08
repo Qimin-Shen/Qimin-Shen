@@ -2,7 +2,7 @@ name: 🌙 Mystic Daily Commit
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 每天 UTC 12:00，北京时间 20:00
+    - cron: '0 0 * * *'   
   workflow_dispatch:
 
 jobs:
@@ -50,14 +50,14 @@ jobs:
 EOM
 )
 
-echo "$NEW_CONTENT" > tmp_daily.txt
+          echo "$NEW_CONTENT" > tmp_daily.txt
 
-sed -i "/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/{
-  r tmp_daily.txt
-  d
-}" README.md
+          sed -i "/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/{
+            r tmp_daily.txt
+            d
+          }" README.md
 
-rm tmp_daily.txt
+          rm tmp_daily.txt
 
 
 
