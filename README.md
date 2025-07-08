@@ -47,9 +47,11 @@
 ---
 
 <!-- daily-fortune-start -->
-<div id="daily-fortune">
-🌖 泡沫のごとく、想いは昇華す。
-🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。
-🗓️ 2025-07-06
-</div>
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-07-08
+ </div>
+ <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
