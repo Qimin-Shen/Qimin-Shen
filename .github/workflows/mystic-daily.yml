@@ -44,7 +44,7 @@ jobs:
            <div id="daily-fortune">
              $QUOTE<br>
              $FORTUNE<br>
-             🗓️$DATE
+             🗓️ $DATE
            </div>
            <!-- daily-fortune-end -->
           EOM
