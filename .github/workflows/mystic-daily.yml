@@ -50,16 +50,18 @@ jobs:
           EOM
           )
 
-          # 把新的内容保存到文件中
           echo "$NEW_CONTENT" > tmp_daily.txt
 
-          # 删除原有 daily-fortune 块（包括起始和结束注释）
-          sed -i '/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/d' README.md
+          # 删除旧内容（保留 start/end 注释）
+          sed -i '/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/{
+            /<!-- daily-fortune-start -->/b
+            /<!-- daily-fortune-end -->/b
+            d
+          }' README.md
 
-          # 在 <!-- daily-fortune-start --> 这一行后插入新内容
+          # 在 start 注释行后插入新内容
           sed -i '/<!-- daily-fortune-start -->/r tmp_daily.txt' README.md
 
-          # 删除临时文件
           rm tmp_daily.txt
 
 
