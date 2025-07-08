@@ -39,9 +39,27 @@ jobs:
           FORTUNE=${fortunes[$RANDOM % ${#fortunes[@]}]}
           DATE=$(date '+%Y-%m-%d')
 
-          echo "$QUOTE" > README.md
-          echo "$FORTUNE" >> README.md
-          echo "🗓️ $DATE" >> README.md
+          NEW_CONTENT=$(cat << EOM
+<!-- daily-fortune-start -->
+<div id="daily-fortune">
+  $QUOTE<br>
+  $FORTUNE<br>
+  🗓️ $DATE
+</div>
+<!-- daily-fortune-end -->
+EOM
+)
+
+echo "$NEW_CONTENT" > tmp_daily.txt
+
+sed -i "/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/{
+  r tmp_daily.txt
+  d
+}" README.md
+
+rm tmp_daily.txt
+
+
 
       - name: Commit and push changes
         env:
