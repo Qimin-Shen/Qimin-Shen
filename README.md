@@ -49,9 +49,18 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
    🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-07-08
+   🗓️ 2025-07-09
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-07-09
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
