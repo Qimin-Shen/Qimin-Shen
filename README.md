@@ -49,70 +49,142 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 見えぬものこそ、心を照らす。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-11
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌔 白露落ち、記憶の舟は岸を離る。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-12
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
