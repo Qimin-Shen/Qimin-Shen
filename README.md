@@ -49,34 +49,34 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -84,34 +84,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -120,34 +120,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -155,34 +155,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -192,34 +192,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -227,34 +227,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -263,34 +263,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -298,34 +298,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -336,34 +336,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -371,34 +371,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -407,34 +407,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -442,34 +442,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -479,34 +479,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -514,34 +514,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -550,34 +550,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -585,34 +585,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -624,34 +624,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -659,34 +659,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -695,34 +695,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -730,34 +730,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -767,34 +767,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -802,34 +802,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -838,34 +838,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -873,34 +873,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -911,34 +911,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -946,34 +946,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -982,34 +982,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1017,34 +1017,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1054,34 +1054,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1089,34 +1089,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1125,34 +1125,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1160,35 +1160,1187 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌓 静夜に、星の声が胸を打つ。<br>
    🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-15
+   🗓️ 2025-07-16
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌓 静夜に、星の声が胸を打つ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-07-16
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
