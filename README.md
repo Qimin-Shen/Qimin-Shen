@@ -49,34 +49,34 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -84,34 +84,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -120,34 +120,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -155,34 +155,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -192,34 +192,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -227,34 +227,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -263,34 +263,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -298,34 +298,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -336,34 +336,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -371,34 +371,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -407,34 +407,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -442,34 +442,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -479,34 +479,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -514,34 +514,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -550,34 +550,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -585,34 +585,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -624,34 +624,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -659,34 +659,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -695,34 +695,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -730,34 +730,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -767,34 +767,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -802,34 +802,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -838,34 +838,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -873,34 +873,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -911,34 +911,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -946,34 +946,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -982,34 +982,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1017,34 +1017,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1054,34 +1054,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1089,34 +1089,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1125,34 +1125,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1160,34 +1160,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1200,34 +1200,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1235,34 +1235,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1271,34 +1271,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1306,34 +1306,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1343,34 +1343,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1378,34 +1378,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1414,34 +1414,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1449,34 +1449,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1487,34 +1487,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1522,34 +1522,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1558,34 +1558,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1593,34 +1593,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1630,34 +1630,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1665,34 +1665,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1701,34 +1701,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1736,34 +1736,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1775,34 +1775,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1810,34 +1810,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1846,34 +1846,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1881,34 +1881,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1918,34 +1918,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1953,34 +1953,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1989,34 +1989,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2024,34 +2024,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2062,34 +2062,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2097,34 +2097,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2133,34 +2133,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2168,34 +2168,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2205,34 +2205,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2240,34 +2240,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2276,34 +2276,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2311,34 +2311,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2352,34 +2352,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2387,34 +2387,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2423,34 +2423,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2458,34 +2458,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2495,34 +2495,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2530,34 +2530,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2566,34 +2566,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2601,34 +2601,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2639,34 +2639,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2674,34 +2674,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2710,34 +2710,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2745,34 +2745,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2782,34 +2782,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2817,34 +2817,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2853,34 +2853,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2888,34 +2888,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2927,34 +2927,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2962,34 +2962,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2998,34 +2998,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3033,34 +3033,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3070,34 +3070,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3105,34 +3105,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3141,34 +3141,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3176,34 +3176,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3214,34 +3214,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3249,34 +3249,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3285,34 +3285,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3320,34 +3320,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3357,34 +3357,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3392,34 +3392,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3428,34 +3428,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3463,34 +3463,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3503,34 +3503,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3538,34 +3538,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3574,34 +3574,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3609,34 +3609,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3646,34 +3646,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3681,34 +3681,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3717,34 +3717,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3752,34 +3752,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3790,34 +3790,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3825,34 +3825,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3861,34 +3861,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3896,34 +3896,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3933,34 +3933,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -3968,34 +3968,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4004,34 +4004,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4039,34 +4039,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4078,34 +4078,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4113,34 +4113,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4149,34 +4149,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4184,34 +4184,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4221,34 +4221,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4256,34 +4256,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4292,34 +4292,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4327,34 +4327,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4365,34 +4365,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4400,34 +4400,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4436,34 +4436,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4471,34 +4471,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4508,34 +4508,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4543,34 +4543,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4579,34 +4579,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4614,34 +4614,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4656,34 +4656,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4691,34 +4691,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4727,34 +4727,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4762,34 +4762,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4799,34 +4799,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4834,34 +4834,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4870,34 +4870,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4905,34 +4905,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4943,34 +4943,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -4978,34 +4978,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5014,34 +5014,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5049,34 +5049,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5086,34 +5086,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5121,34 +5121,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5157,34 +5157,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5192,34 +5192,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5231,34 +5231,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5266,34 +5266,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5302,34 +5302,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5337,34 +5337,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5374,34 +5374,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5409,34 +5409,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5445,34 +5445,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5480,34 +5480,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5518,34 +5518,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5553,34 +5553,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5589,34 +5589,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5624,34 +5624,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5661,34 +5661,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5696,34 +5696,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5732,34 +5732,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5767,34 +5767,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5807,34 +5807,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5842,34 +5842,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5878,34 +5878,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5913,34 +5913,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5950,34 +5950,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -5985,34 +5985,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6021,34 +6021,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6056,34 +6056,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6094,34 +6094,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6129,34 +6129,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6165,34 +6165,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6200,34 +6200,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6237,34 +6237,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6272,34 +6272,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6308,34 +6308,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6343,34 +6343,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6382,34 +6382,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6417,34 +6417,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6453,34 +6453,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6488,34 +6488,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6525,34 +6525,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6560,34 +6560,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6596,34 +6596,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6631,34 +6631,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6669,34 +6669,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6704,34 +6704,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6740,34 +6740,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6775,34 +6775,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6812,34 +6812,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6847,34 +6847,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6883,34 +6883,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6918,34 +6918,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6959,34 +6959,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -6994,34 +6994,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7030,34 +7030,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7065,34 +7065,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7102,34 +7102,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7137,34 +7137,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7173,34 +7173,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7208,34 +7208,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7246,34 +7246,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7281,34 +7281,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7317,34 +7317,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7352,34 +7352,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7389,34 +7389,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7424,34 +7424,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7460,34 +7460,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7495,34 +7495,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7534,34 +7534,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7569,34 +7569,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7605,34 +7605,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7640,34 +7640,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7677,34 +7677,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7712,34 +7712,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7748,34 +7748,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7783,34 +7783,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7821,34 +7821,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7856,34 +7856,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7892,34 +7892,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7927,34 +7927,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7964,34 +7964,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -7999,34 +7999,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8035,34 +8035,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8070,34 +8070,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8110,34 +8110,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8145,34 +8145,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8181,34 +8181,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8216,34 +8216,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8253,34 +8253,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8288,34 +8288,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8324,34 +8324,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8359,34 +8359,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8397,34 +8397,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8432,34 +8432,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8468,34 +8468,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8503,34 +8503,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8540,34 +8540,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8575,34 +8575,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8611,34 +8611,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8646,34 +8646,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8685,34 +8685,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8720,34 +8720,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8756,34 +8756,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8791,34 +8791,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8828,34 +8828,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8863,34 +8863,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8899,34 +8899,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8934,34 +8934,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -8972,34 +8972,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9007,34 +9007,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9043,34 +9043,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9078,34 +9078,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9115,34 +9115,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9150,34 +9150,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9186,34 +9186,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -9221,35 +9221,9251 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌑 闇を抱き、光はなお生まれくる。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-07-18
+   🗓️ 2025-07-19
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-07-19
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
