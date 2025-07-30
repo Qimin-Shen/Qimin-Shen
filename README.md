@@ -50,8 +50,17 @@
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
    🌑 闇を抱き、光はなお生まれくる。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-07-29
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-07-30
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌑 闇を抱き、光はなお生まれくる。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-07-30
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
