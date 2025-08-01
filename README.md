@@ -47,9 +47,11 @@
 ---
 
 <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-   🗓️ 2025-07-31
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-01
  </div>
+ <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
