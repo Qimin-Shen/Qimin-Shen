@@ -49,9 +49,18 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌗 夢の跡、月だけがすべてを見ていた。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-01
+   🗓️ 2025-08-02
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-02
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
