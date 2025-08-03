@@ -49,18 +49,36 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-02
+   🗓️ 2025-08-03
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌗 夢の跡、月だけがすべてを見ていた。<br>
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
    🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-02
+   🗓️ 2025-08-03
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-03
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-03
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
 <!-- daily-fortune-end -->
