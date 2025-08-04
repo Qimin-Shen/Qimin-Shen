@@ -50,16 +50,16 @@
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
    🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-03
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
    🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-03
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -67,17 +67,53 @@
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
    🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-03
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
    🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-   🗓️ 2025-08-03
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌒 月影揺れ、言葉は風に消ゆ。<br>
+   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+   🗓️ 2025-08-04
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
