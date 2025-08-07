@@ -49,105 +49,34 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -155,106 +84,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -263,70 +120,501 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
- </div>
- <!-- daily-fortune-end -->
- <!-- daily-fortune-start -->
- <!-- daily-fortune-start -->
- <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌖 泡沫のごとく、想いは昇華す。<br>
-   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-   🗓️ 2025-08-06
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌘 鳥も眠る、夜の底に夢ひとつ。<br>
+   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+   🗓️ 2025-08-07
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
