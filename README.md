@@ -49,34 +49,34 @@
 <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -84,34 +84,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -120,34 +120,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -155,34 +155,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -192,34 +192,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -227,34 +227,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -263,34 +263,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -298,34 +298,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -336,34 +336,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -371,34 +371,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -407,34 +407,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -442,34 +442,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -479,34 +479,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -514,34 +514,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -550,34 +550,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -585,34 +585,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -624,34 +624,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -659,34 +659,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -695,34 +695,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -730,34 +730,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -767,34 +767,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -802,34 +802,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -838,34 +838,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -873,34 +873,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -911,34 +911,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -946,34 +946,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -982,34 +982,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1017,34 +1017,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1054,34 +1054,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1089,34 +1089,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1125,34 +1125,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1160,34 +1160,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1200,34 +1200,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1235,34 +1235,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1271,34 +1271,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1306,34 +1306,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1343,34 +1343,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1378,34 +1378,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1414,34 +1414,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1449,34 +1449,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1487,34 +1487,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1522,34 +1522,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1558,34 +1558,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1593,34 +1593,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1630,34 +1630,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1665,34 +1665,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1701,34 +1701,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1736,34 +1736,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1775,34 +1775,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1810,34 +1810,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1846,34 +1846,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1881,34 +1881,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1918,34 +1918,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1953,34 +1953,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -1989,34 +1989,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2024,34 +2024,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2062,34 +2062,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2097,34 +2097,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2133,34 +2133,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2168,34 +2168,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2205,34 +2205,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2240,34 +2240,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2276,34 +2276,34 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
@@ -2311,35 +2311,2339 @@
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
  <!-- daily-fortune-end -->
  <!-- daily-fortune-start -->
  <!-- daily-fortune-start -->
  <div id="daily-fortune">
-   🌒 月影揺れ、言葉は風に消ゆ。<br>
-   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-   🗓️ 2025-08-09
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
  </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
+ <!-- daily-fortune-start -->
+ <!-- daily-fortune-start -->
+ <div id="daily-fortune">
+   🌙 風花舞い、過去と未来を繋ぐ。<br>
+   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+   🗓️ 2025-08-10
+ </div>
+ <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
  <!-- daily-fortune-end -->
