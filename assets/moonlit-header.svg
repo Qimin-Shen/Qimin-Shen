@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">月と星の夜</title>
+  <desc id="desc">A quiet original moonlit anime-inspired night sky with a luminous crescent and scattered stars.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11152f"/><stop offset=".48" stop-color="#25204b"/><stop offset="1" stop-color="#59416f"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#f8e6d0" stop-opacity=".34"/><stop offset="1" stop-color="#d4b8ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="moon" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#fff8e8"/><stop offset="1" stop-color="#d9c5ff"/></linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c1b3e8" stop-opacity="0"/><stop offset=".5" stop-color="#dfd0f2" stop-opacity=".25"/><stop offset="1" stop-color="#c1b3e8" stop-opacity="0"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1600" height="520" rx="30" fill="url(#sky)"/>
+  <circle cx="1170" cy="190" r="205" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="1170" cy="190" r="88" fill="url(#moon)"/>
+  <circle cx="1210" cy="155" r="82" fill="#29244f"/>
+  <g fill="#fff4dc">
+    <circle cx="170" cy="120" r="2.5"/><circle cx="280" cy="225" r="2"/><circle cx="395" cy="92" r="2.2"/><circle cx="520" cy="160" r="1.7"/><circle cx="655" cy="78" r="2.4"/><circle cx="750" cy="235" r="2"/><circle cx="890" cy="123" r="2.1"/><circle cx="1000" cy="300" r="1.8"/><circle cx="1370" cy="85" r="2"/><circle cx="1475" cy="245" r="2.5"/><circle cx="1330" cy="365" r="1.8"/><circle cx="240" cy="365" r="2"/><circle cx="560" cy="350" r="1.8"/><circle cx="830" cy="395" r="2.3"/><circle cx="1490" cy="420" r="1.7"/>
+  </g>
+  <g stroke="#f5e9ff" stroke-opacity=".8" stroke-width="2">
+    <path d="M330 145v18m-9-9h18"/><path d="M715 112v22m-11-11h22"/><path d="M945 235v16m-8-8h16"/><path d="M1400 305v22m-11-11h22"/><path d="M465 285v14m-7-7h14"/>
+  </g>
+  <path d="M0 420 Q180 350 365 420T730 410T1080 420T1450 395T1600 410V520H0Z" fill="#171a3a" opacity=".68"/>
+  <path d="M0 462 Q200 410 390 460T780 450T1160 462T1600 438V520H0Z" fill="url(#mist)"/>
+  <g fill="#191a39" opacity=".9"><path d="M0 500l85-100 90 100zm210 20 110-140 105 140zm930 0 130-170 125 170zm220 0 95-125 110 125z"/></g>
+  <text x="100" y="170" fill="#fff2e8" font-family="serif" font-size="34" letter-spacing="9" opacity=".92">MOONLIT · STARRY · QUIET</text>
+  <text x="100" y="235" fill="#e7dcff" font-family="serif" font-size="22" letter-spacing="5" opacity=".82">月の光に、今日を記す。</text>
+</svg>

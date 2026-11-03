@@ -1,78 +1,40 @@
-name: 🌙 Mystic Daily Commit
+name: 🌙 Mystic Daily Check-in
 
 on:
+  # 16:00 UTC is 00:00 on the following day in Asia/Shanghai.
   schedule:
-    - cron: '0 0 * * *'   
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  commit:
+  update-check-in:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repo
+      - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Generate mystic quote and fortune and append to README
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install IANA timezone data
+        run: python -m pip install tzdata
+
+      - name: Update today's check-in
+        run: python scripts/update_daily.py --timezone Asia/Shanghai
+
+      - name: Commit only if the check-in changed
         run: |
-          quotes=(
-            "🌒 月影揺れ、言葉は風に消ゆ。"
-            "🌓 静夜に、星の声が胸を打つ。"
-            "🌕 雲を割り、白き月、ただ独り。"
-            "🌘 鳥も眠る、夜の底に夢ひとつ。"
-            "🌑 闇を抱き、光はなお生まれくる。"
-            "🌙 風花舞い、過去と未来を繋ぐ。"
-            "🌗 夢の跡、月だけがすべてを見ていた。"
-            "🌖 泡沫のごとく、想いは昇華す。"
-            "🌔 白露落ち、記憶の舟は岸を離る。"
-            "🌑 見えぬものこそ、心を照らす。"
-          )
-
-          fortunes=(
-            "🌟 今日の運勢：大吉 — 万事順調、心静如水。"
-            "🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。"
-            "🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。"
-            "🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。"
-            "🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。"
-          )
-
-          QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}
-          FORTUNE=${fortunes[$RANDOM % ${#fortunes[@]}]}
-          DATE=$(date '+%Y-%m-%d')
-
-          NEW_CONTENT=$(cat << EOM
-           <!-- daily-fortune-start -->
-           <div id="daily-fortune">
-             $QUOTE<br>
-             $FORTUNE<br>
-             🗓️ $DATE
-           </div>
-           <!-- daily-fortune-end -->
-          EOM
-          )
-
-          echo "$NEW_CONTENT" > tmp_daily.txt
-
-          # 删除旧内容（保留 start/end 注释）
-          sed -i '/<!-- daily-fortune-start -->/,/<!-- daily-fortune-end -->/{
-            /<!-- daily-fortune-start -->/b
-            /<!-- daily-fortune-end -->/b
-            d
-          }' README.md
-
-          # 在 start 注释行后插入新内容
-          sed -i '/<!-- daily-fortune-start -->/r tmp_daily.txt' README.md
-
-          rm tmp_daily.txt
-
-
-
-      - name: Commit and push changes
-        env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "Qimin-Shen"
-          git config --global user.email "qimshen@bu.edu"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          if git diff --quiet -- README.md; then
+            echo "README already has today's check-in."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🌌 Mystic update on $(date '+%Y-%m-%d')" || echo "No changes to commit"
-          git push origin main
+          git commit -m "🌙 Daily check-in $(TZ=Asia/Shanghai date +'%Y-%m-%d')"
+          git push
