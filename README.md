@@ -13,8 +13,8 @@
 <!-- daily-fortune-start -->
 <div id="daily-fortune" align="center">
   <strong>🌗 夢の跡、月だけがすべてを見ていた。</strong><br>
-  🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-  🗓️ 2026-11-03
+  🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
+  🗓️ 2026-11-04
 </div>
 <!-- daily-fortune-end -->
 
