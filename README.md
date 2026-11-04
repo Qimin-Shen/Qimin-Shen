@@ -1,38 +1,52 @@
 <p align="center">
-  <img src="./assets/moonlit-header.svg" alt="Moonlit sky" width="100%" />
+  <img src="./assets/moonlit-header.svg" alt="月と星の夜 · Moonlit starry night" width="100%" />
 </p>
 
-<h1 align="center">☾ Qimin-Shen · 月と星の夜 ✦</h1>
+<h1 align="center">Qimin Shen</h1>
 
-<p align="center"><em>在月光与星尘之间，记录每一个崭新的今天。</em></p>
+<p align="center">
+  <em>在月光与星尘之间，记录每一个崭新的今天。</em>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Qimin-Shen"><b>GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://qimin-shen.github.io/my-website/"><b>Website</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Qimin-Shen?tab=repositories"><b>Repositories</b></a>
+</p>
 
-## 🌙 今日签到 · Daily Check-in
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="" width="520" />
+</p>
+
+<h2 align="center">🌙 今日月签 <sub>· Daily Check-in</sub></h2>
 
 <!-- daily-fortune-start -->
-<div id="daily-fortune" align="center">
+<div align="center">
   <strong>🌗 夢の跡、月だけがすべてを見ていた。</strong><br>
+  <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-  🗓️ 2026-11-04
+  <sub>🗓️ 2026-11-04</sub>
 </div>
 <!-- daily-fortune-end -->
 
----
+<h2 align="center">✦ GitHub 星轨 <sub>· Star Track</sub></h2>
 
-## ✦ GitHub 星轨
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="GitHub 语言光谱" width="100%" />
+</p>
 
-<table align="center">
-  <tr>
-    <!-- 左图：语言图 -->
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qimin-Shen&layout=compact&theme=radical&bg_color=00000000&hide_border=true&title_color=BFA8F3&text_color=CCCCFF" width="400"/>
-    </td>
-    <!-- 右图：Kirino 动图 -->
-    <td align="center" valign="top" width="50%">
-      <img src="./assets/kirino.gif" width="400" style="filter: drop-shadow(0 0 6px #e0d3ff); border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/kirino.gif" alt="Kirino" width="320" />
+  <br>
+  <sub>☾ Kirino · 高坂桐乃</sub>
+</p>
 
-<p align="center"><sub>月は満ち欠けても、星はいつもそこに。</sub></p>
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="" width="520" />
+</p>
+
+<p align="center">
+  <sub>月は満ち欠けても、星はいつもそこに。</sub>
+</p>

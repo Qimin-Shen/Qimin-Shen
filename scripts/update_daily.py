@@ -39,10 +39,11 @@ def make_block(day: date) -> str:
     fortune = FORTUNES[int.from_bytes(seed[4:8], "big") % len(FORTUNES)]
     return "\n".join((
         START,
-        '<div id="daily-fortune" align="center">',
+        '<div align="center">',
         f"  <strong>{quote}</strong><br>",
+        "  <sub>☾ ─── ✦ ─── ☽</sub><br>",
         f"  {fortune}<br>",
-        f"  🗓️ {day.isoformat()}",
+        f"  <sub>🗓️ {day.isoformat()}</sub>",
         "</div>",
         END,
     ))

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="44" viewBox="0 0 800 44" role="img" aria-label="section divider">
+  <g stroke="#8A72B5" stroke-width="1" stroke-linecap="round" opacity=".8">
+    <line x1="90" y1="22" x2="330" y2="22" stroke-dasharray="1 7"/>
+    <line x1="470" y1="22" x2="710" y2="22" stroke-dasharray="1 7"/>
+  </g>
+  <g fill="#e8d9ff">
+    <path d="M400 9l3.2 6.6 6.6 3.2-6.6 3.2L400 28.6l-3.2-6.6-6.6-3.2 6.6-3.2z"/>
+    <circle cx="360" cy="22" r="1.7" opacity=".8"/>
+    <circle cx="440" cy="22" r="1.7" opacity=".8"/>
+    <circle cx="330" cy="22" r="1.1" opacity=".5"/>
+    <circle cx="470" cy="22" r="1.1" opacity=".5"/>
+  </g>
+</svg>

@@ -27,14 +27,20 @@ jobs:
       - name: Update today's check-in
         run: python scripts/update_daily.py --timezone Asia/Shanghai
 
-      - name: Commit only if the check-in changed
+      - name: Refresh the self-hosted language card
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stats.py --timezone Asia/Shanghai
+
+      - name: Commit only if something changed
         run: |
-          if git diff --quiet -- README.md; then
-            echo "README already has today's check-in."
+          if git diff --quiet -- README.md assets/github-stats.svg; then
+            echo "Profile is already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🌙 Daily check-in $(TZ=Asia/Shanghai date +'%Y-%m-%d')"
+          git add README.md assets/github-stats.svg
+          git commit -m "🌙 Daily check-in & star track $(TZ=Asia/Shanghai date +'%Y-%m-%d')"
           git push
