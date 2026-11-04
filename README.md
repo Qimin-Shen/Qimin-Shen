@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌗 夢の跡、月だけがすべてを見ていた。</strong><br>
+  <strong>🌔 白露落ち、記憶の舟は岸を離る。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-  <sub>🗓️ 2026-11-04</sub>
+  🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
+  <sub>🗓️ 2026-11-05</sub>
 </div>
 <!-- daily-fortune-end -->
 
