@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="stats-title stats-desc">
   <title id="stats-title">GitHub 星轨 · 语言光谱</title>
-  <desc id="stats-desc">3 个公开仓库 · 6 种语言 · 426.2 KB</desc>
+  <desc id="stats-desc">3 个公开仓库 · 6 种语言 · 444.0 KB</desc>
 
   <defs>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
@@ -16,17 +16,17 @@
 
   <text x="56" y="58" fill="#F2E9FF" font-size="21" font-weight="600" letter-spacing="1.5">✦ 语言光谱</text>
   <text x="56" y="86" fill="#A294C9" font-size="12" letter-spacing="2.4">LANGUAGE SPECTRUM · 星の軌跡</text>
-  <text x="944" y="58" fill="#B7A8D8" font-size="12" text-anchor="end" letter-spacing="1.2">3 个公开仓库 · 6 种语言 · 426.2 KB</text>
-  <text x="944" y="86" fill="#7F739E" font-size="11" text-anchor="end" letter-spacing="1.6">UPDATED 2026-11-05</text>
+  <text x="944" y="58" fill="#B7A8D8" font-size="12" text-anchor="end" letter-spacing="1.2">3 个公开仓库 · 6 种语言 · 444.0 KB</text>
+  <text x="944" y="86" fill="#7F739E" font-size="11" text-anchor="end" letter-spacing="1.6">UPDATED 2026-11-06</text>
 
   <g clip-path="url(#bar)">
-    <rect x="56.00" y="118" width="448.63" height="26" fill="#9B87E8"/><rect x="504.63" y="118" width="222.70" height="26" fill="#F3C97B"/><rect x="727.34" y="118" width="204.38" height="26" fill="#7FC8E8"/><rect x="931.72" y="118" width="8.62" height="26" fill="#9BE0C2"/><rect x="940.34" y="118" width="2.65" height="26" fill="#F09AC0"/><rect x="942.98" y="118" width="1.02" height="26" fill="#B9B2D8"/>
+    <rect x="56.00" y="118" width="430.62" height="26" fill="#9B87E8"/><rect x="486.62" y="118" width="231.83" height="26" fill="#F3C97B"/><rect x="718.45" y="118" width="213.76" height="26" fill="#7FC8E8"/><rect x="932.21" y="118" width="8.28" height="26" fill="#9BE0C2"/><rect x="940.49" y="118" width="2.54" height="26" fill="#F09AC0"/><rect x="943.03" y="118" width="0.97" height="26" fill="#B9B2D8"/>
   </g>
   <g stroke="#171633" stroke-width="1.5" opacity=".55">
-    <line x1="504.63" y1="118" x2="504.63" y2="144"/><line x1="727.34" y1="118" x2="727.34" y2="144"/><line x1="931.72" y1="118" x2="931.72" y2="144"/>
+    <line x1="486.62" y1="118" x2="486.62" y2="144"/><line x1="718.45" y1="118" x2="718.45" y2="144"/><line x1="932.21" y1="118" x2="932.21" y2="144"/>
   </g>
 
-  <circle cx="61" cy="192" r="5" fill="#9B87E8"/><text x="74" y="196" fill="#DCD3F2" font-size="13">JavaScript</text><text x="306" y="196" fill="#9488B8" font-size="12" text-anchor="end">50.5%</text><circle cx="341" cy="192" r="5" fill="#F3C97B"/><text x="354" y="196" fill="#DCD3F2" font-size="13">HTML</text><text x="586" y="196" fill="#9488B8" font-size="12" text-anchor="end">25.1%</text><circle cx="621" cy="192" r="5" fill="#7FC8E8"/><text x="634" y="196" fill="#DCD3F2" font-size="13">Python</text><text x="866" y="196" fill="#9488B8" font-size="12" text-anchor="end">23.0%</text><circle cx="61" cy="232" r="5" fill="#9BE0C2"/><text x="74" y="236" fill="#DCD3F2" font-size="13">CSS</text><text x="306" y="236" fill="#9488B8" font-size="12" text-anchor="end">1.0%</text><circle cx="341" cy="232" r="5" fill="#F09AC0"/><text x="354" y="236" fill="#DCD3F2" font-size="13">PowerShell</text><text x="586" y="236" fill="#9488B8" font-size="12" text-anchor="end">0.3%</text><circle cx="621" cy="232" r="5" fill="#B9B2D8"/><text x="634" y="236" fill="#DCD3F2" font-size="13">Other</text><text x="866" y="236" fill="#9488B8" font-size="12" text-anchor="end">0.1%</text>
+  <circle cx="61" cy="192" r="5" fill="#9B87E8"/><text x="74" y="196" fill="#DCD3F2" font-size="13">JavaScript</text><text x="306" y="196" fill="#9488B8" font-size="12" text-anchor="end">48.5%</text><circle cx="341" cy="192" r="5" fill="#F3C97B"/><text x="354" y="196" fill="#DCD3F2" font-size="13">Python</text><text x="586" y="196" fill="#9488B8" font-size="12" text-anchor="end">26.1%</text><circle cx="621" cy="192" r="5" fill="#7FC8E8"/><text x="634" y="196" fill="#DCD3F2" font-size="13">HTML</text><text x="866" y="196" fill="#9488B8" font-size="12" text-anchor="end">24.1%</text><circle cx="61" cy="232" r="5" fill="#9BE0C2"/><text x="74" y="236" fill="#DCD3F2" font-size="13">CSS</text><text x="306" y="236" fill="#9488B8" font-size="12" text-anchor="end">0.9%</text><circle cx="341" cy="232" r="5" fill="#F09AC0"/><text x="354" y="236" fill="#DCD3F2" font-size="13">PowerShell</text><text x="586" y="236" fill="#9488B8" font-size="12" text-anchor="end">0.3%</text><circle cx="621" cy="232" r="5" fill="#B9B2D8"/><text x="634" y="236" fill="#DCD3F2" font-size="13">Other</text><text x="866" y="236" fill="#9488B8" font-size="12" text-anchor="end">0.1%</text>
 
   <line x1="56" y1="270" x2="944" y2="270" stroke="#3B3260" stroke-opacity=".7"/>
   <text x="56" y="288" fill="#7A6F9B" font-size="10.5" letter-spacing="1.4">AUTO-REFRESHED DAILY · 每日自动更新</text>

@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌔 白露落ち、記憶の舟は岸を離る。</strong><br>
+  <strong>🌕 雲を割り、白き月、ただ独り。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌟 今日の運勢：大吉 — 万事順調、心静如水。<br>
-  <sub>🗓️ 2026-11-05</sub>
+  <sub>🗓️ 2026-11-06</sub>
 </div>
 <!-- daily-fortune-end -->
 
