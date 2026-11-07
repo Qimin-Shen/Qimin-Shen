@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌓 静夜に、星の声が胸を打つ。</strong><br>
+  <strong>🌘 鳥も眠る、夜の底に夢ひとつ。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-  <sub>🗓️ 2026-11-07</sub>
+  <sub>🗓️ 2026-11-08</sub>
 </div>
 <!-- daily-fortune-end -->
 
