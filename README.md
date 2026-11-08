@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌘 鳥も眠る、夜の底に夢ひとつ。</strong><br>
+  <strong>🌖 泡沫のごとく、想いは昇華す。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-  <sub>🗓️ 2026-11-08</sub>
+  <sub>🗓️ 2026-11-09</sub>
 </div>
 <!-- daily-fortune-end -->
 
