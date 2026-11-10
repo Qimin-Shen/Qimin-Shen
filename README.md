@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌕 雲を割り、白き月、ただ独り。</strong><br>
+  <strong>🌖 泡沫のごとく、想いは昇華す。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌫️ 今日の運勢：末吉 — 运转微妙，勿急勿躁。<br>
-  <sub>🗓️ 2026-11-10</sub>
+  🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。<br>
+  <sub>🗓️ 2026-11-11</sub>
 </div>
 <!-- daily-fortune-end -->
 
