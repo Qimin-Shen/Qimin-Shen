@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌔 白露落ち、記憶の舟は岸を離る。</strong><br>
+  <strong>🌑 見えぬものこそ、心を照らす。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-  <sub>🗓️ 2026-11-12</sub>
+  🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。<br>
+  <sub>🗓️ 2026-11-13</sub>
 </div>
 <!-- daily-fortune-end -->
 
