@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌑 見えぬものこそ、心を照らす。</strong><br>
+  <strong>🌙 風花舞い、過去と未来を繋ぐ。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。<br>
-  <sub>🗓️ 2026-11-16</sub>
+  <sub>🗓️ 2026-11-17</sub>
 </div>
 <!-- daily-fortune-end -->
 
