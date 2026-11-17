@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌙 風花舞い、過去と未来を繋ぐ。</strong><br>
+  <strong>🌓 静夜に、星の声が胸を打つ。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。<br>
-  <sub>🗓️ 2026-11-17</sub>
+  🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+  <sub>🗓️ 2026-11-18</sub>
 </div>
 <!-- daily-fortune-end -->
 
