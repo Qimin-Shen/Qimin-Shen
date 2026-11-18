@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌓 静夜に、星の声が胸を打つ。</strong><br>
+  <strong>🌘 鳥も眠る、夜の底に夢ひとつ。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-  <sub>🗓️ 2026-11-18</sub>
+  <sub>🗓️ 2026-11-19</sub>
 </div>
 <!-- daily-fortune-end -->
 
