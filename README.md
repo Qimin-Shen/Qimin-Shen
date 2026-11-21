@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌒 月影揺れ、言葉は風に消ゆ。</strong><br>
+  <strong>🌑 闇を抱き、光はなお生まれくる。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌤️ 今日の運勢：小吉 — 细雨润物，蓄势待发。<br>
-  <sub>🗓️ 2026-11-21</sub>
+  🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
+  <sub>🗓️ 2026-11-22</sub>
 </div>
 <!-- daily-fortune-end -->
 
