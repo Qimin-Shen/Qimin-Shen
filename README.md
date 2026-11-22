@@ -26,8 +26,8 @@
 <div align="center">
   <strong>🌑 闇を抱き、光はなお生まれくる。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
-  🌧️ 今日の運勢：凶 — 凡事不强求，静观其变。<br>
-  <sub>🗓️ 2026-11-22</sub>
+  🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
+  <sub>🗓️ 2026-11-23</sub>
 </div>
 <!-- daily-fortune-end -->
 
