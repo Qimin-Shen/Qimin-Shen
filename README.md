@@ -24,10 +24,10 @@
 
 <!-- daily-fortune-start -->
 <div align="center">
-  <strong>🌘 鳥も眠る、夜の底に夢ひとつ。</strong><br>
+  <strong>🌒 月影揺れ、言葉は風に消ゆ。</strong><br>
   <sub>☾ ─── ✦ ─── ☽</sub><br>
   🌞 今日の運勢：中吉 — 有收获，但需谨慎行事。<br>
-  <sub>🗓️ 2026-11-27</sub>
+  <sub>🗓️ 2026-11-28</sub>
 </div>
 <!-- daily-fortune-end -->
 
